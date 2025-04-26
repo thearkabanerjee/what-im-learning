@@ -16,4 +16,4 @@ https://youtu.be/yK1uBHPdp30?si=iUDMbmXrwf-FZwOB
 6. Generative AI for Devs
 https://www.youtube.com/watch?v=F0GQ0l2NfHA
 
-7.
+
