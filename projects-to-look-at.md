@@ -1,6 +1,6 @@
 what are few topics i will be focusing on in the next few months:
 
-D5 and Web 3:
+De-Fi and Web 3:
 
   * Sports betting platform
   * On-chain order books
